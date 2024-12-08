@@ -1,3 +1,6 @@
+<!-- Submission: https://lms.ecornell.com/courses/1788087/assignments/12965218 -->
+
+
 <h1><img src="./wave.gif" width="30px" height="30px" /> Hi, I'm Vivian!</h1>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/vivianliu532)
@@ -37,9 +40,9 @@ Feel free to connect or check out my experiences below!
 
 ## 🎨 Interests and Hobbies
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥖 I'm a big foodie  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏸 I've played badminton since 6th grade  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥 I've been learning Spanish since 7th grade and am on a 2600+ day Duolingo streak
+- 🥖 I'm a big foodie  
+- 🏸 I've played badminton since 6th grade  
+- 🔥 I've been learning Spanish since 7th grade and am on a 2600+ day Duolingo streak
 
 
 ## 📫 Contact
@@ -56,10 +59,6 @@ https://github.com/DenverCoder1/github-readme-streak-stats -->
 [![Vivian's Public GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stuart6557&show_icons=true&include_all_commits=true&show=prs_merged&custom_title=Vivian's%20Public%20GitHub%20Stats&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- Includes a picture that is professional (e.g. good lighting, appropriate attire)
-- Your Fall AI Studio project repo is pinned at the top of your profile as a representation of your best or most relevant work for hiring managers
-
-
 <!--
 ## Optional Sections
 
@@ -69,5 +68,3 @@ Open Source
 
 Blogs
 -->
-
-<!-- Submission: https://lms.ecornell.com/courses/1788087/assignments/12965218 -->
